@@ -1,4 +1,4 @@
-# -Recherche_operationnelle_RO
+# Recherche_operationnelle_RO
 
 La recherche opérationnelle est une branche des mathématiques appliquées qui vise à trouver des solutions optimales à des problèmes de décision complexes. Les problèmes de transport font partie des problèmes les plus courants en recherche opérationnelle.
 
